@@ -1,0 +1,9 @@
+[caps]
+deviceName = "242453a"
+platformName = "Android"
+appActivity = "com.woi.liputan6.android.ui.user_guide.activities.WelcomeActivity"
+appPackage = "com.woi.liputan6.android"
+
+[appium_lib]
+sauce_username = false
+sauce_access_key = false
